@@ -1,0 +1,19 @@
+{"connections": [
+		{"conn_type": 	"Oracle",
+		 "conn_name": 	"db_ORACLE",
+		 "user": 		"user",
+		 "password": 	"password",
+		 "host": 		"",
+		 "database": 	"db_name",
+		 "port": 		""
+		},
+		{"conn_type": 	"PSQL",
+		 "conn_name": 	"db_PG",
+		 "user": 		"user",
+		 "password": 	"password",		 
+		 "host": 		"host",
+		 "database": 	"db_name",
+		 "port": 		"5432"
+		}	
+	]
+}
